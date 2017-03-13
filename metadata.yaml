@@ -1,5 +1,8 @@
 _repo: Monsieur-Lecoq-v.-1_4071
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Gaboriau, Emile
@@ -12,6 +15,8 @@ creator:
     - http://en.wikipedia.org/wiki/%C3%89mile_Gaboriau
     - http://fr.wikipedia.org/wiki/%C3%89mile_Gaboriau
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/4071#Monsieur-Lecoq-v.-1
 gutenberg_bookshelf: Detective Fiction
 gutenberg_issued: '2006-04-13'
 gutenberg_type: Text
